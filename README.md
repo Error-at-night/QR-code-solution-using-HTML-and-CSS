@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://error-at-night.github.io/QR-code-solution-using-HTML-and-CSS/)
 
 ## My process
 
@@ -44,7 +44,7 @@ I want to focus on learning on how to make responsive websites
 
 ## Author
 
-- Website - (https://www.your-site.com)
+- Website - (https://error-at-night.github.io/QR-code-solution-using-HTML-and-CSS/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Error-at-night)
 - Twitter - (https://www.twitter.com/realogsucessful)
 
