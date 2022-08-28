@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://your-solution-url.com)
+- Live Site URL: (https://your-live-site-url.com)
 
 ## My process
 
@@ -44,8 +44,8 @@ I want to focus on learning on how to make responsive websites
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Error-at-night)
-- Twitter - [@yourusername](https://www.twitter.com/realogsucessful)
+- Website - (https://www.your-site.com)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Error-at-night)
+- Twitter - (https://www.twitter.com/realogsucessful)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
